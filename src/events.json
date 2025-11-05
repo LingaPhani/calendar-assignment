@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e1",
+    "title": "Team Meeting",
+    "date": "2025-11-05",
+    "start": "10:00"
+  },
+  {
+    "id": "e2",
+    "title": "Project Planning",
+    "date": "2025-11-05",
+    "start": "10:30"
+  },
+  {
+    "id": "e3",
+    "title": "Lunch",
+    "date": "2025-11-12",
+    "start": "13:00"
+  },
+  {
+    "id": "e4",
+    "title": "Client Call",
+    "date": "2025-11-20",
+    "start": "16:00"
+  }
+]
