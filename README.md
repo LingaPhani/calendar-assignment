@@ -1,16 +1,46 @@
-# React + Vite
+# 🗓️ Interactive Calendar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive calendar web application built using **React (Vite)** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+This app allows users to:
+- View any month and year
+- Hover and highlight days interactively
+- Select any date to view its events
+- See all events listed below the calendar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
+👉 **[View Deployed App](https://calendar-assignment-git-main-phani-lingas-projects.vercel.app)**  
+👉 **[GitHub Repository](https://github.com/LingaPhani/calendar-assignment.git)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📅 **Dynamic Month & Year Selection** – Choose any month and year from dropdowns  
+- 🎨 **Dark Mode Design** – Elegant black theme with blue highlights  
+- 🖱️ **Interactive Hover Effects** – Highlight days with glow animations  
+- 📋 **Event Display** – Shows scheduled events for the selected day  
+- 💻 **Responsive Layout** – Works perfectly on desktop and mobile screens  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **React (Vite)** | Frontend framework |
+| **Tailwind CSS** | Styling and layout |
+| **Date-fns** | Date management |
+| **Vercel** | Deployment |
+| **GitHub** | Code hosting & version control |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/LingaPhani/calendar-assignment.git
+cd calendar-assignment
